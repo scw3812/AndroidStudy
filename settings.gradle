@@ -2,3 +2,4 @@ include ':app', ':part2-3', ':part2-4', ':part2-5', ':part2-6', ':part2-7', ':pa
 rootProject.name='AndroidStudy'
 include ':part4-13'
 include ':part5-14'
+include ':part5-15'
