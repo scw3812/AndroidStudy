@@ -27,7 +27,6 @@
         android:id="@+id/main_list"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_below="@id/main_btn"
-        />
+        android:layout_below="@+id/main_btn"/>
 
 </RelativeLayout>
