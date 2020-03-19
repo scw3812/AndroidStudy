@@ -1,5 +1,6 @@
 package com.example.part5_16;
 
+import android.annotation.SuppressLint;
 import android.os.Handler;
 import android.os.Looper;
 import android.os.Message;
@@ -57,6 +58,7 @@ public class Lab16_3Activity extends AppCompatActivity {
 
     class OneThread extends Thread{
         Handler oneHandler;
+
 
         @Override
         public void run() {
